@@ -35,7 +35,13 @@ Selenium IDE,previously known as Selenium Recorder, is a complete integrated dev
 * **Selenium WebDriver:** Selenium WebDriver is the successor to Selenium RC. Selenium WebDriver accepts commands ,which can be sent in Selenese or a Client API, and sends them to a browser. This is implemented through a browser-specific browser driver, which sends commands to a browser, and retrieves results. Most browser drivers actually launch and access a browser application (such as Firefox, Chrome or Internet Explorer); there is also an HtmlUnit browser driver, which simulates a browser using HtmlUnit.
 
 
-* **Selenium Grid:** Selenium Grid is a server that allows tests to make use of web browser instances running on remote machines. With Selenium Grid, one server performs the role of the hub. Tests contact the hub to obtain access to browser instances. The hub has a list of servers that provide access to browser instances (WebDriver nodes), and lets tests use these instances. Selenium Grid allows running tests in parallel on multiple machines, and to manage different browser versions and browser configurations centrally (instead of in each individual test).
+* **Selenium Grid:** Selenium Grid is a server that allows tests to make use of web browser instances running on remote machines. With Selenium Grid, one server performs the role of the hub.Tests contact the hub to obtain access to browser instances. The hub has a list of servers that provide access to browser instances such as WebDriver nodes, and lets tests use these instances. Selenium Grid allows running tests in parallel on multiple machines, and to manage different browser versions and browser configurations centrally.
+
+
+## Conclusion
+
+Thus we can see that using an automated test tool such as Selenium and the different components that it offers, one can ease the process of software testing and build software applications that are not only durable but of high quality also. There are many other automation tools for web applications, but Selenium provides an ease of use to the tester as well as tests software applications rigorously. Hence it is one of the most popular tools among testers and used widely by many organizations in the process of software development.
+
 
 
 ---
